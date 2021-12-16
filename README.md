@@ -1,6 +1,9 @@
 # Supervised_ML_Credit_risk
 
+![8-Credit Risk](https://user-images.githubusercontent.com/81705144/146286503-f8271633-f7fb-4593-a58f-0386bded31d9.jpg)
+
 ### Analysis:
+
 
 The goal of this project is to create a machine learning model to classify the risk level of given loans. I used the 2019 dataset to predict the 2020 datasets and scored the training and testing of both. Below i give my predictions on linear regression as well as Random forest classifiers before they were ran.
 
