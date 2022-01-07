@@ -5,7 +5,7 @@
 ### Analysis:
 
 
-The goal of this project is to create a machine learning model to classify the risk level of given loans. I used the 2019 dataset to predict the 2020 datasets and scored the training and testing of both. Below i give my predictions on linear regression as well as Random forest classifiers before they were ran.
+The goal of this project is to create a machine learning model to classifies the risk level of given loans. I used the 2019 dataset to predict the 2020 datasets and scored the training and testing of both. Below i give my predictions on linear regression as well as Random forest classifiers before they were ran.
 
 ### Predictions:
 
